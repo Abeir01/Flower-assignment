@@ -47,3 +47,24 @@ padding:100px 200px 00px 0px ;
 .feature-text h1{
     font-size: 30px;
 }
+
+.feature-img{
+    margin: 100px 400px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+
+    
+}
+
+.bonus-sec{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    
+}
+.bonus-sold{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
