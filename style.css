@@ -1,0 +1,49 @@
+body {font-family: 'Open Sans',
+sans-serif;
+font-family: 'Poppins',
+sans-serif;
+font-family: 'Ubuntu',
+sans-serif;
+
+margin: 0;
+
+}
+
+.head-text{
+    padding: 100px 100px 00px 200px; 
+    
+    
+}
+.head-text h1{
+    font-size: 90px;
+}
+.head-text p{
+    color: gray;
+}
+.head-img{
+padding:100px 200px 00px 0px ;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f7ebee;
+    margin-bottom: 200px;
+}
+.shop-btn{
+    border: 0;
+    background-color: #E55473;
+    height: 60px;
+    width: 150px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.feature-text{
+    text-align: center;
+}
+.feature-text h1{
+    font-size: 30px;
+}
